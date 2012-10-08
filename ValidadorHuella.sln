@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidadorHuella", "ValidadorHuella\ValidadorHuella.csproj", "{8142006E-3D38-4718-BC36-3AEC53E222EB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ValidadorHuella.Setup", "ValidadorHuella.Setup\ValidadorHuella.Setup.vdproj", "{9989B1E4-E852-4D37-A060-0F3F400C1B2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8142006E-3D38-4718-BC36-3AEC53E222EB}.Debug|x86.ActiveCfg = Debug|x86
+		{8142006E-3D38-4718-BC36-3AEC53E222EB}.Debug|x86.Build.0 = Debug|x86
+		{8142006E-3D38-4718-BC36-3AEC53E222EB}.Release|x86.ActiveCfg = Release|x86
+		{8142006E-3D38-4718-BC36-3AEC53E222EB}.Release|x86.Build.0 = Release|x86
+		{9989B1E4-E852-4D37-A060-0F3F400C1B2D}.Debug|x86.ActiveCfg = Debug
+		{9989B1E4-E852-4D37-A060-0F3F400C1B2D}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
