@@ -563,7 +563,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Validador Huella"
         "ProductCode" = "8:{B0047B84-18D5-43FF-8F75-5F8C44C140C7}"
-        "PackageCode" = "8:{7BBE42C0-496F-4523-814C-95F6A96A6E1B}"
+        "PackageCode" = "8:{F7116B5E-1D46-4583-AECF-2C1E660163FD}"
         "UpgradeCode" = "8:{8FCCBDF8-9BB6-4F33-886D-3DF9A255CD0A}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
